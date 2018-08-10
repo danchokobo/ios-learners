@@ -10,7 +10,7 @@ Here you can find any kind of useful resources for leaning IOS Programming (Swif
 * [GCD(Swift)](https://theswiftdev.com/2018/07/10/ultimate-grand-central-dispatch-tutorial-in-swift/)
 * [Memory Management](https://medium.com/elements/memory-management-in-swift-31e20f942bbc)
 
-# Design Patters & Architecture
+# Design Patterns & Architecture
 * [Adapter](https://theswiftdev.com/2018/07/30/swift-adapter-design-pattern/)
 * [Factory Method and Singleton](https://www.appcoda.com/design-pattern-creational/)
 * [Observer and Memento](https://www.appcoda.com/design-pattern-behavorial/)
