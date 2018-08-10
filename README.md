@@ -9,6 +9,5 @@ Here you can find any kind of resources for leaning IOS Programming (Swift & Obj
 * [Cocoacasts](https://cocoacasts.com)
 
 ## Credentials
-[Danagul Otel](https://github.com/danchokobo),
-[MIT](http://opensource.org/licenses/mit-license.html)
+[Danagul Otel](https://github.com/danchokobo)
 
