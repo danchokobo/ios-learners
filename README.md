@@ -1,6 +1,6 @@
 # ios-learners
 Hi!
-Here you can find any kind of free content for leaning IOS Programming (Swift & Objective C)
+Here you can find any kind of resources for leaning IOS Programming (Swift & Objective C)
 
 # Free Books
 * [iOS® Developer Notes for Professionals book](https://books.goalkicker.com/iOSBook/)
