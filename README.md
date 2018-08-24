@@ -27,7 +27,7 @@ Helpful topics to preparing for IOS interview!
 * [Code Injection](http://www.vadimbulavin.com/code-injection-swift/)
 * [Writing self-documenting Swift code](https://www.swiftbysundell.com/posts/writing-self-documenting-swift-code)
 * [Parallel Programming with Swift: What could possibly go wrong?](https://medium.com/flawless-app-stories/parallel-programming-with-swift-what-could-possibly-go-wrong-f5bcc38b1814)
-* [WHEN TO USE DELEGATION, NOTIFICATION, OR OBSERVATION IN IOS] (https://shinesolutions.com/2011/06/14/delegation-notification-and-observation/)
+* [WHEN TO USE DELEGATION, NOTIFICATION, OR OBSERVATION IN IOS](https://shinesolutions.com/2011/06/14/delegation-notification-and-observation/)
 
 ## Credentials
 [Danagul Otel](https://github.com/danchokobo)
