@@ -6,7 +6,7 @@ Helpful topics to preparing for IOS interview!
 # IOS interview questions
 
 * [Common questions](https://www.raywenderlich.com/2616-ios-interview-questions)
-
+* [60 Interview Questions Every IOS developer should know](https://medium.com/@gauravtaywade/interview-questions-every-ios-developer-should-know-part-1-7742af7be1ad)
 # Free Books
 * [iOS® Developer Notes for Professionals book](https://books.goalkicker.com/iOSBook/)
 
